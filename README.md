@@ -1,0 +1,1 @@
+This is a webscraper and data complier.  It takes the data from zillow and complies it via google forms into a spread sheet.  Currently it's set to search in the Seattle, WA area and complie the address, cost and link to the listing.
